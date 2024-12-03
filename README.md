@@ -22,12 +22,12 @@ Este projeto tem como objetivo resolver questões do [LeetCode](https://leetcode
 | Nome                                                                                                                                                  | Nível   |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
 | [1584. Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/description/?envType=problem-list-v2&envId=minimum-spanning-tree)  | Médio |
-| # [1489. Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/description/)  | Dificil |
-|           # [2076. Process Restricted Friend Requests](https://leetcode.com/problems/process-restricted-friend-requests/description/)          | Dificil |
+|  [1489. Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/description/)  | Dificil |
+|            [2076. Process Restricted Friend Requests](https://leetcode.com/problems/process-restricted-friend-requests/description/)          | Dificil |
 
-## Vídeo
+## Video
 
- Aqui terá o vídeo[]()
+[Vídeo](https://youtu.be/4Ip80akByGw)
 
 ## Screenshots
 
@@ -72,9 +72,7 @@ Este projeto tem como objetivo resolver questões do [LeetCode](https://leetcode
 
 ![](assets/case3_process.png)
 
-## Video
 
-[Vídeo]()
 
 
 ## Uso
